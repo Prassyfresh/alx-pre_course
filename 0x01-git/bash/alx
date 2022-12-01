@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #!/binbash  echo "ALX School"
+=======
+#!/binbash echo "ALX School"
+>>>>>>> origin/update_script
